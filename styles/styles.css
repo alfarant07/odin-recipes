@@ -1,0 +1,14 @@
+
+div{
+    background-color: beige;
+}
+a{
+    display: flex;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
