@@ -1,6 +1,10 @@
-
+body{
+    background-color: white;
+}
 div{
-    background-color: beige;
+    background-color: #eee;
+    margin: auto;
+    text-align: center;
 }
 a{
     display: flex;
@@ -11,4 +15,11 @@ a{
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: xx-large;
+}
+.food{
+    font-size: 25px;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
 }
